@@ -24,3 +24,5 @@ A Python-based tool for summarizing `.txt` chat logs between a user and an AI. T
 
 ![image](https://github.com/user-attachments/assets/f2c76a97-2fbd-42ac-aacd-eb25d5b3f951)
 
+![image](https://github.com/user-attachments/assets/3fb16665-2d8c-478c-bb1e-a5874d80185b)
+
