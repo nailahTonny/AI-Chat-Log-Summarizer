@@ -14,12 +14,11 @@ A Python-based tool for summarizing `.txt` chat logs between a user and an AI. T
 - ✅ Supports uploading **multiple chat files** at once (Colab-friendly)
 
  # How to Run (in Google Colab)
-
 1. Open .ipynb file 
 4. Run the notebook cell to install dependencies and initialize the summarizer.
-5. Upload one or more `.txt` files when prompted.
+5. Upload one or more `.txt` files when prompted. To upload the .txt files,download files & then upload from local.
 6. View summaries directly in the output.
-
+7. Given streamlit link, one file can be uploaded at the same time.
 ![image](https://github.com/user-attachments/assets/1172ee54-c4a2-48ea-bffd-835f3d9f4bcd)
 
 ![image](https://github.com/user-attachments/assets/f2c76a97-2fbd-42ac-aacd-eb25d5b3f951)
